@@ -1,0 +1,15 @@
+C:\Users\serge\repos\JoeProject\JoeProject\bin\Debug\net6.0\JoeProject.exe
+C:\Users\serge\repos\JoeProject\JoeProject\bin\Debug\net6.0\JoeProject.deps.json
+C:\Users\serge\repos\JoeProject\JoeProject\bin\Debug\net6.0\JoeProject.runtimeconfig.json
+C:\Users\serge\repos\JoeProject\JoeProject\bin\Debug\net6.0\JoeProject.dll
+C:\Users\serge\repos\JoeProject\JoeProject\bin\Debug\net6.0\JoeProject.pdb
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\JoeProject.csproj.AssemblyReference.cache
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\JoeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\JoeProject.AssemblyInfoInputs.cache
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\JoeProject.AssemblyInfo.cs
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\JoeProject.csproj.CoreCompileInputs.cache
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\JoeProject.dll
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\refint\JoeProject.dll
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\JoeProject.pdb
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\JoeProject.genruntimeconfig.cache
+C:\Users\serge\repos\JoeProject\JoeProject\obj\Debug\net6.0\ref\JoeProject.dll
